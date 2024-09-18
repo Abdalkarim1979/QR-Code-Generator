@@ -23,7 +23,7 @@
    - Event listeners are added to the input field to generate the QR code when the input loses focus (`blur` event) or when the Enter key is pressed (`keydown` event).
 
 This code creates a simple web page that allows users to generate a QR code from the text they enter. The QR code is displayed in the `#qrcode` div element.
-##Contact
-avrmicrotech@gmail.com
+  ## Contact
+  avrmicrotech@gmail.com
 
 ؤ
