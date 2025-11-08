@@ -1,3 +1,34 @@
+# QR Code Generator  
+
+## 📖 Project Description  
+**QR Code Generator** is a simple web application that allows users to generate **QR codes** directly from text input. Built with **HTML, CSS, JavaScript, jQuery, and qrcode.js**, the app provides an intuitive interface where users can type any text or link and instantly convert it into a scannable QR code.  
+
+---
+
+## ✨ Features
+- 🔗 **Text or Link Input**: Enter any text or URL to generate a QR code.  
+- 📲 **Instant QR Code Generation**: Automatically creates a QR code using the `qrcode.js` library.  
+- ⌨️ **Auto Update**: QR code refreshes when pressing **Enter** or leaving the input field.  
+- 🎨 **Modern UI**: Clean design with styled input fields and QR display area.  
+- 📦 **jQuery Integration**: Simplifies event handling for real‑time updates.  
+
+---
+
+## 🛠️ Technologies Used
+- **HTML5 / CSS3** for structure and styling  
+- **JavaScript (qrcode.js)** for QR code generation  
+- **jQuery** for event handling  
+
+---
+
+## 🚀 How to Use
+1. Open the `index.html` file in a modern browser.  
+2. Type any text or URL into the input field.  
+3. Press **Enter** or click outside the field to generate the QR code.  
+4. Scan the generated QR code with any QR scanner app.  
+
+---
+
 ### Explanation
 
 1. **DOCTYPE Declaration**:
