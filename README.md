@@ -57,4 +57,4 @@ This code creates a simple web page that allows users to generate a QR code from
   ## Contact
   avrmicrotech@gmail.com
 
-ؤ
+
